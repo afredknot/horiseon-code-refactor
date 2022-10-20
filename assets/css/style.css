@@ -72,45 +72,7 @@ a, p {
   display: inline-block;
   margin-left: 20px;
 }
-
-.benefits {
-  margin-right: 20px;
-  padding: 20px;
-  clear: both;
-  float: right;
-  width: 20%;
-  height: 100%;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #2589bd;
-}
-/* consolidated these elements*/
-/*changed the 20px margin from bottom margin*/
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3{
- 
-  color: #ffffff;
-  margin: 20px auto;
-  text-align: center;
-  display: inline-block
-}
-
-/* saving these incase they're needed*/
-/*
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
-  
-}
-*/
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
-   margin: auto;
-  max-width: 150px;
-   
-}
-/* consolidated these classes to make code more streamlined */
+/* compressed these elements of the same code structure  */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -151,6 +113,45 @@ a, p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+.benefits {
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #2589bd;
+}
+/* consolidated these elements*/
+/*changed the 20px margin from bottom margin*/
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3{
+ 
+  color: #ffffff;
+  margin: 20px auto;
+  text-align: center;
+  display: inline-block
+}
+
+/* saving these incase they're needed*/
+/*
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
+  
+}
+*/
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
+   margin: auto;
+  max-width: 150px;
+   
+}
+/* consolidated these classes to make code more streamlined */
+
 
 .footer h4{
   padding: 30px;

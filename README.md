@@ -31,7 +31,7 @@ you visual studio code will open and you will be able to view the code
 this is to hopefully help other devs see how to restructure their code into something a little more readable for the next person
 
 ```md
-    ![alt text](assets/images/screenshot2.png)
+   ![alt text](assets/images/screenshot2.png)
     ```
 
 ## credits
